@@ -1,0 +1,11 @@
+{
+	"initial": [
+		"libs/WXCloudApi/WXCloudApi.js",
+		"libs/egretmgobe/egretmgobe.js",
+		"libs/modules/babylon/babylon.js"
+	],
+	"game": [
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js"
+	]
+}

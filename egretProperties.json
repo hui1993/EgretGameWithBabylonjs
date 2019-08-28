@@ -1,0 +1,22 @@
+{
+  "engineVersion": "5.2.7",
+  "compilerVersion": "5.2.7",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "WXCloudApi",
+      "path": "./libs/WXCloudApi"
+    },
+    {
+      "name": "egretmgobe",
+      "path": "./libs/egretmgobe"
+    },
+    {
+      "name":"babylon",
+      "path":"../egret-game-library/babylon"
+    }
+  ]
+}
